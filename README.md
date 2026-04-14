@@ -88,7 +88,19 @@ print("Similarity Scores:", scores)
 ## Reproducibility
 Use `scripts/` as templates to reproduce experimental settings. Ensure paths and cluster environment variables are set correctly.
 
+## Model:
+https://huggingface.co/PhilipGAQ/CARE-0.3B-4B
+
 ## License
 License: CC-BY-NC-SA-4.0.
 
+@misc{jiang2026cmedtebcarebenchmarking,
+      title={CMedTEB & CARE: Benchmarking and Enabling Efficient Chinese Medical Retrieval via Asymmetric Encoders}, 
+      author={Angqing Jiang and Jianlyu Chen and Zhe Fang and Yongcan Wang and Xinpeng Li and Keyu Ding and Defu Lian},
+      year={2026},
+      eprint={2604.10937},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2604.10937}, 
+}
 
