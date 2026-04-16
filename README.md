@@ -90,6 +90,7 @@ Use `scripts/` as templates to reproduce experimental settings. Ensure paths and
 
 ## Model:
 https://huggingface.co/PhilipGAQ/CARE-0.3B-4B
+https://huggingface.co/PhilipGAQ/CARE-0.3B-8B
 
 ## License
 License: CC-BY-NC-SA-4.0.
